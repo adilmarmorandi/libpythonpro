@@ -1,12 +1,12 @@
 import requests
 
+
 def avatar(usuario):
+
     """
     Busca o avatar de um usuário no Github
-
     :param usuario: string com nome do usuario no github
     :return: string com o link do avatar
-
     """
 
     url = f'https://api.github.com/users/{usuario}'
