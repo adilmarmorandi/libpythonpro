@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c35e3c39-4b85-4dc2-8b1c-0b499da92138" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/tests/test_exemplo.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/tests/test_exemplo.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,16 +22,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+            <state relative-caret-position="34">
+              <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/libpythonpro/tests/test_exemplo.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
@@ -70,8 +70,8 @@
         <option value="$PROJECT_DIR$/libpythonpro/__init__.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/requirements-dev.txt" />
-        <option value="$PROJECT_DIR$/libpythonpro/tests/test_exemplo.py" />
         <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/libpythonpro/tests/test_exemplo.py" />
       </list>
     </option>
   </component>
@@ -92,11 +92,6 @@
             <path>
               <item name="libpythonpro" type="b2602c69:ProjectViewProjectNode" />
               <item name="libpythonpro" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="libpythonpro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="libpythonpro" type="462c0819:PsiDirectoryNode" />
-              <item name=".pytest_cache" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="libpythonpro" type="b2602c69:ProjectViewProjectNode" />
@@ -267,7 +262,21 @@
       <option name="project" value="LOCAL" />
       <updated>1577705161424</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Inserido teste alterado versao python">
+      <created>1577705504204</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1577705504205</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Inserido teste alterado versao python 3">
+      <created>1577705789757</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1577705789757</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -347,7 +356,9 @@
     <MESSAGE value="Configurado o travis CI&#10;&#10;Close #3" />
     <MESSAGE value="Inserido teste com pytest&#10;&#10;Close #4" />
     <MESSAGE value="Inserido teste com pytest" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inserido teste com pytest" />
+    <MESSAGE value="Inserido teste alterado versao python" />
+    <MESSAGE value="Inserido teste alterado versao python 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inserido teste alterado versao python 3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -422,13 +433,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/libpythonpro/tests/test_exemplo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/requirements-dev.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -438,8 +442,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        <state relative-caret-position="34">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libpythonpro/tests/test_exemplo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
         </state>
       </provider>
     </entry>
